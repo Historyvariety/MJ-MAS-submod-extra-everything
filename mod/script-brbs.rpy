@@ -1,11 +1,8 @@
-NEKOS BRBS
+"I´m going to brush my teeth."
 
-I´m going to wash my teeth.
+m "Heading up to brush your teeth, [player]?"
+m "That is a really important step on your overall health!"
+m "I'm so glad to see you're taking care of yourself!"
+m "See you in a bit!"
 
-Heading up to wash your teeth, player?
-That is a really important step on your overall health!
-Im so glad to see youre taking care of yourself!
-See you in a bit~.
-
-(Greeting)
-Wellcome back! What else should we do today?
+m "Wellcome back! What else should we do today?"
