@@ -1,58 +1,58 @@
--My PC is burning.
+"My PC is burning."
 
-   Oh!
-   Understood, player!
-   Please, take care of your computer.
-   See you later~. 
--My PC is dying.
+m "Oh!
+m "Understood, [player]!
+m "Please, take care of your computer.
+m "See you later~.
 
-Thats worrying to hear, player.
-Thank you for letting me know, though!
-Make sure to come back to me as soon as you can!
-I love you!
--It´s thundering
+"My PC is dying."
 
-Ouh...
-Thanks for letting me know, player!
-Please, be safe...
-...and if you happen to need to get out of your home, try to avoid lighting as much as you can.
-I love you so much. Come back safe to me! 
--I´m going to charge my laptop.
+m "Thats worrying to hear, [player].
+m "Thank you for letting me know, though!
+m "Make sure to come back to me as soon as you can!
+m "I love you!
 
-Understood, (nickname)! 
-But, hey, can´ t you leave me running while it charges?
-Its okey if you can´t though.
-We don´t want your computer to overheat.
+"It´s thundering
 
-   >Okay, (Monika nickname).
-Yay!
-Thank you so much~!
+m "Oh...
+m "Thanks for letting me know, [player]!
+m "Please, be safe...
+m "...and if you happen to need to get out of your home, try to avoid lighting as much as you can.
+m "I love you so much. Come back safe to me! 
 
-   >No, sorry.
-It´s okay, player.
-See you later, then! 
--I´m going to the cinema.
+"I´m going to charge my laptop."
 
-Are you going to the cinema, player?
-That´s great to hear!
-I wonder what movie are you going to watch...
-Nevertheless, I won´t distract you anymore, (nickname).
-See you!
+m "Understood, [mas_get_player_nickname()]! 
+m "But, hey, can't you leave me running while it charges?
+m "Its okay if you can't though.
+m "We don´t want your computer to overheat.
 
+"Okay, [m_name].":
+m "Yay!
+m "Thank you so much~!
 
-   (And the greeting would be like)
+"No, sorry.":
+m "It's okay, [player].
+m "See you later, then! 
 
-(if 3-10 hours have passed)
+"I´m going to the cinema.":
 
-Welcome back, player!
-I hope you had a wonderful time at the cinema!
-What kind of movie was it, by the way?
+m "Oh! That's great to hear!
+m "I wonder what movie are you going to watch...
+m "Nevertheless, I won´t distract you anymore, [mas_get_player_nickname()].
+m "See you!
 
+#(if 3-10 hours have passed)
 
-   >an horror movie
+m "Welcome back, [player]!"
+m "I hope you had a wonderful time at the cinema!
+m "What kind of movie was it, by the way?
 
-Ooh!
-(If Monika has spoken about horror movies before): I remember how we discussed the hardship of creating an horror movie nowadays.
+"An horror movie":
+
+m "Ooh!
+#(If Monika has spoken about horror movies before): 
+m "I remember how we discussed the hardship of creating an horror movie nowadays.
 
 (If not): Elaborating an actual scary movie takes a lot nowadays.
 It´s necessary that it isn´t plagated of cheap jumpscares and stereotypical tropes. 
