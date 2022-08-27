@@ -61,3 +61,26 @@ m "Anyway! Thanks for listening... I guess..."
 #if low aff:
 m "Although... doesn't all this 'putting Monikas to suffer' thing remind you of..."
 m "...a certain someone?"
+
+#coffee palette
+m "Hey [player], there's something I've been meaning to ask you..."
+m "What's your preferred coffee palette?"
+m "Do you like your coffee bitter or sweet?"
+
+"I like my coffee sweet with lots of creamer and other additives!"
+m "You know what? That doesn't surprise me!"
+m "With how sweet you are, it fits, ahaha!"
+m "Well anyways, I can see the point of liking your coffee sweet!"
+m "Sometimes all you want in a slow or exhausting morning is just a sweet little pick me up!"
+m "Well, anyways, thanks for answering my question [mas_get_player_nickname()], somehow knowing these little details about you just makes you more real."
+m "And when I do get to your reality, I'll know how to prepare your coffee!"
+
+"I like my coffee bitter!"
+m "You know, I sort of expected that [player]!"
+m "From what I know of you so far, I just always pegged you as someone who preferred things more rich and earthy!"
+m "That's not a bad thing though!"
+m "Many people say that those who like bitter things and lots of spices often have what's known as a more mature palette!"
+m "Though, between you and me, sometimes the best option is to go for a more bitter tasting coffee!"
+m "As you might know, it sure does wake you up, ahaha~"
+m "Well, anyways, thanks for answering my question [mas_get_player_nickname()], somehow knowing these little details about you just makes you more real."
+m "And when I do get to your reality I'll know how to prepare your coffee!"
