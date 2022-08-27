@@ -8,7 +8,7 @@ m "If you feel like it, and want to do a nice gesture, you can download the Ecos
 m "You don't even notice it working on your computer!"
 m "And if you ever have any trouble with it, you can always come back to your usual browser."
 m "..."
-m "This dialogue is not sponsored by Ecosia, ehehe." (Face like: 😅)
+m "This dialogue is not sponsored by Ecosia, ehehe." #(Face like: 😅)
 m "Thanks for listening, [player]! Let's make your world better together~"
 
 #stanford experiment
