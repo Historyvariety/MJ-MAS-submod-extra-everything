@@ -1,58 +1,58 @@
 "My PC is burning."
 
-m "Oh!
-m "Understood, [player]!
-m "Please, take care of your computer.
-m "See you later~.
+m 1wud "Oh!"
+m 3ekb "Understood, [player]!"
+m 2eksdlc "Please, take care of your computer."
+m 2hua "See you later~."
 
 "My PC is dying."
 
-m "Thats worrying to hear, [player].
-m "Thank you for letting me know, though!
-m "Make sure to come back to me as soon as you can!
-m "I love you!
+m 1dsc "Thats worrying to hear, [player]."
+m 1eka "Thank you for letting me know, though!"
+m 1ekbla "Make sure to come back to me as soon as you can!"
+m 1hub "I love you!"
 
-"It´s thundering
+"It´s thundering."
 
-m "Oh...
-m "Thanks for letting me know, [player]!
-m "Please, be safe...
-m "...and if you happen to need to get out of your home, try to avoid lighting as much as you can.
-m "I love you so much. Come back safe to me! 
+m 1ekc "Oh..."
+m 1eka "Thanks for letting me know, [player]!"
+m 2ekc "Please, be safe..."
+m 2ekc "...and if you happen to need to get out of your home, try to avoid lighting as much as you can."
+m 3eka "I love you so much. Come back safe to me!"
 
 "I´m going to charge my laptop."
 
-m "Understood, [mas_get_player_nickname()]! 
-m "But, hey, can't you leave me running while it charges?
-m "Its okay if you can't though.
-m "We don´t want your computer to overheat.
+m 2eub "Understood, [mas_get_player_nickname()]!"
+m 2wud "But, hey, can't you leave me running while it charges?"
+m 1eka "Its okay if you can't, though."
+m 1rksdld "We don´t want your computer to overheat."
 
 "Okay, [m_name].":
-m "Yay!
-m "Thank you so much~!
+m 3hub "Yay!"
+m 3hub "Thank you so much~!"
 
 "No, sorry.":
-m "It's okay, [player].
-m "See you later, then! 
+m 1eka "It's okay, [player]."
+m 1hua "See you later, then!" 
 
 "I´m going to the cinema.":
 
-m "Oh! That's great to hear!
-m "I wonder what movie are you going to watch...
-m "Nevertheless, I won´t distract you anymore, [mas_get_player_nickname()].
-m "See you!
+m 1hub "Oh! That's great to hear!"
+m 2rub "I wonder what movie are you going to watch..."
+m 2eub "Nevertheless, I won´t distract you anymore, [mas_get_player_nickname()]."
+m 1huu "See you!"
 
 #(if 3-10 hours have passed)
 
-m "Welcome back, [player]!"
-m "I hope you had a wonderful time at the cinema!
-m "What kind of movie was it, by the way?
+m 1eub "Welcome back, [player]!"
+m 1hub "I hope you had a wonderful time at the cinema!"
+m 3wud "What kind of movie was it, by the way?"
 
-"An horror movie":
+"An horror movie.":
 
-m "Ooh!
+m 2wud "Ooh!"
 #(If Monika has spoken about horror movies before): 
-m "I remember how we discussed the hardship of creating an horror movie nowadays.
+m 2rua "I remember how we discussed the hardship of creating an horror movie nowadays."
 
 (If not): Elaborating an actual scary movie takes a lot nowadays.
 It´s necessary that it isn´t plagated of cheap jumpscares and stereotypical tropes. 
