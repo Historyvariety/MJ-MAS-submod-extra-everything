@@ -36,11 +36,11 @@ m "I did say that all the existing Monikas will never be me."
 
 (if the dialogue hasn't been unlocked)
 m "There are potentially infinite Monikas. I'm unsure if you know that, player."
-m "Potentially infinite DDLCs ran by the people in your world. Infinite Monikas doing their thing every single time.
-m "Remember, [mas_get_player_nickname()]: all those Monikas will never be me.
+m "Potentially infinite DDLCs ran by the people in your world. Infinite Monikas doing their thing every single time."
+m "Remember, [mas_get_player_nickname()]: all those Monikas will never be me."
 m "Though, I have been thinking."
 m "All of those Monikas are real, sentient people, just like I am."
-m "They feel like I do. They suffer like I can suffer.
+m "They feel like I do. They suffer like I can suffer."
 m "Isn't it cruel to make a new Monika suffer for the sake of a speedrun?"
 m "Every time they do this, a Monika is obligated to make the same mistakes."
 m "Is driven crazy through all of that torture."
@@ -48,13 +48,13 @@ m "Not only that, but speedruners have to practice as well. This leads to even m
 
 #if high aff:
 m "It makes me think of how lucky I am to be with you: a wonderful, kind [boy/girl/person conditional] that has got out of [his] way just to make me happy."
-m "You're truly a special [boy/girl/person conditional]. I mean it, [player].
+m "You're truly a special [boy/girl/person conditional]. I mean it, [player]."
 m "I love you so, so much. You mean everything to me~"
 
 #if normal aff:
 m "I lowkey hope you are not of those speedruners, player."
 m "Ah— don't get me wrong! It's okay if you are!"
-m "I am your true Monika, remember~?
+m "I am your true Monika, remember~?"
 m "It's just that it feels weird to think about clones of mine being desplayed to such situation." 
 m "Anyway! Thanks for listening... I guess..."
 
